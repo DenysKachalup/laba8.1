@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\AP\LABAP\8\laba8.1\laba8.1\Source.cpp(25,15): warning C4305: =: усечение из "int" в "char"
+D:\AP\LABAP\8\laba8.1\laba8.1\Source.cpp(25,11): warning C4309: =: усечение константного значения
+D:\AP\LABAP\8\laba8.1\laba8.1\Source.cpp(39,13): warning C4305: =: усечение из "int" в "char"
+D:\AP\LABAP\8\laba8.1\laba8.1\Source.cpp(39,9): warning C4309: =: усечение константного значения
+D:\AP\LABAP\8\laba8.1\laba8.1\Source.cpp(49): warning C4715: Zamina: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\AP\LABAP\8\laba8.1\Debug\UnitTest1.lib и объект D:\AP\LABAP\8\laba8.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\AP\LABAP\8\laba8.1\Debug\UnitTest1.dll
